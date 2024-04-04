@@ -1,0 +1,13 @@
+.avatar-frame {
+    width: 240px; /* Adjust the width as needed */
+    height: 240px; /* Adjust the height as needed */
+    overflow: hidden;
+    border-radius: 100%; /* Make it round */
+    margin: 0 auto; /* Center the frame */
+  }
+  
+  .avatar-frame img {
+    width: 100%;
+    height: auto;
+  }
+  
