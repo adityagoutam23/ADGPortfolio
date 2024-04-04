@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ADGPortfolio/static/css/main.607750b3.css",
+    "main.js": "/ADGPortfolio/static/js/main.1b9eabfa.js",
+    "static/js/415.4d6acbeb.chunk.js": "/ADGPortfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ADGPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-bg.jpg": "/ADGPortfolio/static/media/home-bg.6fa4175d09aabf31b6de.jpg",
+    "static/media/avatar.png": "/ADGPortfolio/static/media/avatar.7fb28a6eec65ffb689d1.png",
+    "static/media/home-main.svg": "/ADGPortfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/ADGPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Aditya_Goutam_Resume.pdf": "/ADGPortfolio/static/media/Aditya_Goutam_Resume.db4cfa28dad77f4cecc7.pdf",
+    "static/media/mythological.png": "/ADGPortfolio/static/media/mythological.b75d9c76de0111642bd6.png",
+    "static/media/pre.svg": "/ADGPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/ADGPortfolio/index.html",
+    "main.607750b3.css.map": "/ADGPortfolio/static/css/main.607750b3.css.map",
+    "main.1b9eabfa.js.map": "/ADGPortfolio/static/js/main.1b9eabfa.js.map",
+    "415.4d6acbeb.chunk.js.map": "/ADGPortfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ADGPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607750b3.css",
+    "static/js/main.1b9eabfa.js"
+  ]
+}
